@@ -1,4 +1,24 @@
-contract
-========
+#Project Proposal**Prepared for:** **CLIENT_NAME**, **CLIENT_COMPANY** (Client)  
+**Prepared by:**  **DEVELOPER_NAME** (Developer)
 
-Generic Freelance Contract
+**CURRENT_DATE**
+##Executive Summary###ObjectiveUpdate the **CLIENT_COMPANY** site with...
+This involves:
+* Step 1* Step 2* Step 3...###GoalsThese updates will help the Client...
+###Fee & TimeframeThe estimate for the work is **$XXX** dollars. The site project should take approximately **TIMEFRAME**.
+###PaymentAn initial deposit of **$XXX** will be provided by the Client. All invoices are payable within 30 business days of receipt.
+###EstimatesThe fees and expenses described are minimum estimates. If the project is going to be billed on an hourly basis, that fee will be defined above in the Fee section. The Developer shall keep the client apprised of a tally of hours within a reasonable period of time. Final fees and expenses shall be shown when invoice is rendered. 
+###CancellationIn the event of cancellation of this assignment, ownership of all copyrights and the original artwork shall be retained by the Developer, and a cancellation fee for work completed, and expenses already incurred, shall be paid by the Client. Cancellation fee is based on the hours submitted, if the project is on an hourly basis or a percentage based on the time estimate for the entire job. A 100% cancellation fee is due once the project has been finished, whether delivered to the client or not. If the project is on an hourly basis the and project is canceled by the client, the client agrees to pay no less than 100% of the hours already billed for the project at the time of cancellation plus a flat fee of $100 or 50% of the remaining hours that were expected to be completed on the project, whichever is greater.
+###Ownership and return of artworkThe Developer retains ownership of all original artwork (i.e. created by the Developer), whether preliminary or final, and the Client shall return such artwork within 30 days of use unless indicated otherwise below. If transfer of ownership of all rights is desired, the rates may be increased. If the Client wishes the ownership of the rights to a specific design or concept, these may be purchased at any time for a recalculation of the hourly rate on the time billed or the entire project cost.
+###Code of fair practiceThe Developer warrants and represents that, to the best of his/her knowledge, the work assigned hereunder is original and has not been previously published, or that consent to use has been obtained on an unlimited basis; that all work or portions thereof obtained through the undersigned form third parties is original or, if previously published, that consent to use has been obtained on an unlimited basis; that the Developer has full authority to make this agreement; and that the work prepared by the Developer does not contain any scandalous, libelous, or unlawful matter. This warranty does not extend to any uses that the Client or others may make of the Developer’s product that may infringe on the rights of others. Client expressly agrees that it will hold the Developer harmless for all liability caused by the Client’s use of the Developer’s product to the extent such use infringes on the rights of others.
+###Limitation of liabilityClient agrees that it shall not hold the Developer or his/her agents or employees liable for any incidental or consequential damages that arise from the Developer’s failure to perform any aspect of the project in a timely manner, regardless of whether such failure was caused intentional or negligent acts or omissions of the Developer or Client, any client representatives or employees, or a third party.
+###ModificationsModifications of the terms of this contract must be written and authorized by both parties, involving the implementation of a new version of the contract as a whole following standard procedures of documentation and approval. 
+###Dispute ResolutionAny disputes in excess of maximum limit for small-claims court arising out of this Agreement shall be submitted to binding arbitration before a mutually agreed-upon arbitrator pursuant to the rules of the American Arbitration Association. The Arbitrator’s award shall be final, and judgment may be entered in any court having jurisdiction thereof. The client shall pay all arbitration and court cost, reasonable attorney’s fees, and legal interest on any award of judgment in favor of the Developer. All actions, whether brought by client or by Developer will be filed in the Developer's state/county of business/residence.
+###Acceptance of termsThe signature of both parties shall evidence acceptance of these terms.
+Developer: **DEVELOPER_NAME**  
+Date: **CURRENT_DATE**
+
+Client:  
+Date:
+
+The action of the sending and receipt of this agreement via electronic method will hold both parties in acceptance of these terms. The Developer as sender and the Client as recipient will acknowledge acceptance of these terms either through an e-mail noting acceptance or acceptance is acknowledged at the beginning of any work on said project. Electronic signatures shall be considered legal and binding.
